@@ -1,0 +1,7 @@
+D:\Study\Faculty\3.2\Operating System\section\encrpted sc\bin\Debug\encrpted sc.exe.config
+D:\Study\Faculty\3.2\Operating System\section\encrpted sc\bin\Debug\encrpted sc.exe
+D:\Study\Faculty\3.2\Operating System\section\encrpted sc\bin\Debug\encrpted sc.pdb
+D:\Study\Faculty\3.2\Operating System\section\encrpted sc\obj\Debug\encrpted sc.csprojAssemblyReference.cache
+D:\Study\Faculty\3.2\Operating System\section\encrpted sc\obj\Debug\encrpted sc.csproj.CoreCompileInputs.cache
+D:\Study\Faculty\3.2\Operating System\section\encrpted sc\obj\Debug\encrpted sc.exe
+D:\Study\Faculty\3.2\Operating System\section\encrpted sc\obj\Debug\encrpted sc.pdb
